@@ -1,2 +1,2 @@
 # ber2-rp
-Minha página pessoal
+Minha página pessoal.
